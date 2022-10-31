@@ -65,12 +65,13 @@ I am Haikal Lazuardi Fadil, people call me Haikal, currently pursuing my bachelo
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haikallf&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Workspace Specs
-![VGA](https://img.shields.io/badge/VGA-GTX_1660_SUPER-76B900?style=flat-square&logo=nvidia&logoColor=white)
-![CPU](https://img.shields.io/badge/CPU-Core_i5_9400f-0071C5?style=flat-square&logo=intel&logoColor=white)
-![RAM](https://img.shields.io/badge/RAM-16GB_DDR4-593D88?style=flat-square&logoColor=white)
-![Storage](https://img.shields.io/badge/Storage-1TB(SSD)_+_1TB(HDD)_|_(2TB)-2391E6?style=flat-square&logoColor=white)
-![Monitor1](https://img.shields.io/badge/Monitor_1-AOC_24G2Z-CA4245?style=flat-square&logo=aoc&logoColor=white)
-![Monitor2](https://img.shields.io/badge/Monitor_2-LG_24MP59G-CA4245?style=flat-square&logoColor=white)
+
+![VGA](https://img.shields.io/badge/VGA-RTX_3080_Ti-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![CPU](https://img.shields.io/badge/CPU-Core_i7_13700KF-0071C5?style=flat-square&logo=intel&logoColor=white)
+![RAM](https://img.shields.io/badge/RAM-32GB_DDR5-593D88?style=flat-square&logoColor=white)
+![Storage](<https://img.shields.io/badge/Storage-1TB(SSD)_+_1TB(M.2_NVME)_|_(2TB)-2391E6?style=flat-square&logoColor=white>)
+![Monitor1](https://img.shields.io/badge/Monitor_1-LG_27GP850-CA4245?style=flat-square&logo=aoc&logoColor=white)
+![Monitor2](https://img.shields.io/badge/Monitor_2-AOC_24G2Z-CA4245?style=flat-square&logoColor=white)
 
 <!-- ![Github Streaks](https://github-readme-stats.vercel.app/api?username=haikallf&show_icons=true&locale=en&langs_count=10) -->
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=haikallf&show_icons=true&locale=en&langs_count=10" alt="haikallf" /></p> -->
