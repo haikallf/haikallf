@@ -60,7 +60,8 @@ I am Haikal Lazuardi Fadil, people call me Haikal, currently pursuing my bachelo
 
 ## Stats
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=haikallf&count_private=true&show_icons=true&include_all_commits=true)
+<!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=haikallf&count_private=true&show_icons=true&include_all_commits=true) -->
+
 ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=haikallf&)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haikallf&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -74,5 +75,6 @@ I am Haikal Lazuardi Fadil, people call me Haikal, currently pursuing my bachelo
 ![Monitor2](https://img.shields.io/badge/Monitor_2-AOC_24G2Z-CA4245?style=flat-square&logoColor=white)
 
 <!-- ![Github Streaks](https://github-readme-stats.vercel.app/api?username=haikallf&show_icons=true&locale=en&langs_count=10) -->
+
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=haikallf&show_icons=true&locale=en&langs_count=10" alt="haikallf" /></p> -->
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=haikallf&" alt="haikallf" /></p> -->
