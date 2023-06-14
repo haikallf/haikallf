@@ -60,10 +60,10 @@ I am Haikal Lazuardi Fadil, people call me Haikal, currently pursuing my bachelo
 
 ## Stats
 
-<!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=haikallf&count_private=true&show_icons=true&include_all_commits=true) -->
+![Github Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=haikallf&count_private=true&show_icons=true&include_all_commits=true)
 
 ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=haikallf&)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haikallf&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=haikallf&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Workspace Specs
 
