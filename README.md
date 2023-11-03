@@ -35,7 +35,7 @@ I am Haikal Lazuardi Fadil, but most people simply call me Haikal. I recently gr
 
 <!-- GITHUB STATS -->
 
-![Github Stats - Dark](https://github-readme-stats-sigma-five.vercel.app/api?username=haikallf&count_private=true&show_icons=true&include_all_commits=true&bg_color=00000000&text_color=7DBBEF&border_color=7DBBEF&title_color=4F94EF&icon_color=0063D0#gh-dark-mode-only)
+[![Github Stats - Dark](https://github-readme-stats-sigma-five.vercel.app/api?username=haikallf&count_private=true&show_icons=true&include_all_commits=true&bg_color=00000000&text_color=7DBBEF&border_color=7DBBEF&title_color=4F94EF&icon_color=0063D0#gh-dark-mode-only)](https://github-readme-stats-sigma-five.vercel.app/#gh-dark-mode-only)
 
 ![Github Stats - Light](https://github-readme-stats-sigma-five.vercel.app/api?username=haikallf&count_private=true&show_icons=true&include_all_commits=true#gh-light-mode-only)
 
