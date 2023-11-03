@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Haikal Lazuardi Fadil</h1>
-<h3 align="center">Frontend Developer</h3>
+<h3 align="center">Mobile & Frontend Web Developer</h3>
 
 ## About Me
 
-I am Haikal Lazuardi Fadil, people call me Haikal, a freshgraduate in Informatics Engineering from [Institut Teknologi Bandung](https://www.itb.ac.id/). I am a tech enthusiast and always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me.
-
-<!-- - 🌱 I’m currently learning **Mobile & Frontend Web Development**
-
-- 📫 Reach me **haikallzrd@gmail.com** -->
+I am Haikal Lazuardi Fadil, but most people simply call me Haikal. I recently graduated with a degree in Informatics Engineering from [Institut Teknologi Bandung](https://www.itb.ac.id/). I am a tech enthusiast and am always eager to collaborate on projects and explore innovative and disruptive ideas. If you'd like to learn more about me or connect with me, please feel free to reach out.
 
 ## Connect with me
 
@@ -37,21 +33,20 @@ I am Haikal Lazuardi Fadil, people call me Haikal, a freshgraduate in Informatic
 
 ## Stats
 
-![Github Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=haikallf&count_private=true&show_icons=true&include_all_commits=true)
+<!-- GITHUB STATS -->
 
-![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=haikallf&)
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=haikallf&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Github Stats - Dark](https://github-readme-stats-sigma-five.vercel.app/api?username=haikallf&count_private=true&show_icons=true&include_all_commits=true&bg_color=00000000&text_color=7DBBEF&border_color=7DBBEF&title_color=4F94EF&icon_color=0063D0#gh-dark-mode-only)
 
-<!-- ## Workspace Specs
+![Github Stats - Light](https://github-readme-stats-sigma-five.vercel.app/api?username=haikallf&count_private=true&show_icons=true&include_all_commits=true#gh-light-mode-only)
 
-![VGA](https://img.shields.io/badge/VGA-RTX_3080_Ti-76B900?style=flat-square&logo=nvidia&logoColor=white)
-![CPU](https://img.shields.io/badge/CPU-Core_i7_13700KF-0071C5?style=flat-square&logo=intel&logoColor=white)
-![RAM](https://img.shields.io/badge/RAM-32GB_DDR5-593D88?style=flat-square&logoColor=white)
-![Storage](<https://img.shields.io/badge/Storage-1TB(SSD)_+_1TB(M.2_NVME)_|_(2TB)-2391E6?style=flat-square&logoColor=white>)
-![Monitor1](https://img.shields.io/badge/Monitor_1-LG_27GP850-CA4245?style=flat-square&logo=aoc&logoColor=white)
-![Monitor2](https://img.shields.io/badge/Monitor_2-AOC_24G2Z-CA4245?style=flat-square&logoColor=white) -->
+<!-- GITHUB STREAK -->
 
-<!-- ![Github Streaks](https://github-readme-stats.vercel.app/api?username=haikallf&show_icons=true&locale=en&langs_count=10) -->
+[![GitHub Streak - Dark](https://streak-stats.demolab.com?user=haikallf&theme=dark&background=00000000&ring=4F94EF&fire=0063D0&currStreakLabel=4F94EF&sideNums=7DBBEF&currStreakNum=7DBBEF&sideLabels=4F94EF&border=7DBBEF#gh-dark-mode-only)](https://git.io/streak-stats#gh-dark-mode-only)
 
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=haikallf&show_icons=true&locale=en&langs_count=10" alt="haikallf" /></p> -->
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=haikallf&" alt="haikallf" /></p> -->
+[![GitHub Streak - Light](https://streak-stats.demolab.com?user=haikallf&fire=0063D0&ring=4F94EF&currStreakLabel=4F94EF#gh-light-mode-only)](https://git.io/streak-stats#gh-light-mode-only)
+
+<!-- TOP LANGUAGES -->
+
+![Top Langs - Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=haikallf&langs_count=8&hide=matlab&layout=compact&bg_color=00000000&text_color=7DBBEF&title_color=4F94EF&border_color=7DBBEF)
+
+![Top Langs - Light](https://github-readme-stats.vercel.app/api/top-langs/?username=haikallf&langs_count=8&hide=matlab&layout=compact#gh-light-mode-only)
