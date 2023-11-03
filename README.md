@@ -47,6 +47,6 @@ I am Haikal Lazuardi Fadil, but most people simply call me Haikal. I recently gr
 
 <!-- TOP LANGUAGES -->
 
-![Top Langs - Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=haikallf&langs_count=8&hide=matlab&layout=compact&bg_color=00000000&text_color=7DBBEF&title_color=4F94EF&border_color=7DBBEF)
+[![Top Langs - Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=haikallf&langs_count=8&hide=matlab&layout=compact&bg_color=00000000&text_color=7DBBEF&title_color=4F94EF&border_color=7DBBEF)](https://github-readme-stats.vercel.app#gh-dark-mode-only)
 
-![Top Langs - Light](https://github-readme-stats.vercel.app/api/top-langs/?username=haikallf&langs_count=8&hide=matlab&layout=compact#gh-light-mode-only)
+[![Top Langs - Light](https://github-readme-stats.vercel.app/api/top-langs/?username=haikallf&langs_count=8&hide=matlab&layout=compact#gh-light-mode-only)](https://github-readme-stats.vercel.app#gh-light-mode-only)
