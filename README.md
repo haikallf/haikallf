@@ -10,7 +10,8 @@ I am Haikal Lazuardi Fadil, but most people simply call me Haikal. I recently gr
 [![Linkedin Badge](https://img.shields.io/badge/-Haikal%20Lazuardi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/haikal-lazuardi/)](https://www.linkedin.com/in/haikal-lazuardi/)
 [![Instagram](https://img.shields.io/badge/-haikallazuardifadil-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/haikallazuardifadil)](https://instagram.com/haikallazuardifadil)
 [![Gmail](https://img.shields.io/badge/-haikallzrd@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:haikallzrd@gmail.com)](mailto:haikallzrd@gmail.com)
-[![Whatsapp](https://img.shields.io/badge/-6281219083250-25D366?style=flat-square&logo=whatsapp&logoColor=white&link=https://wa.me/6281219083250)](https://wa.me/6281219083250)
+[![Whatsapp](https://img.shields.io/badge/-+62%2081219083250-25D366?style=flat-square&logo=whatsapp&logoColor=white&link=https://wa.me/6281219083250)](https://wa.me/6281219083250)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-4285F4?style=flat-square&logo=Google%20Drive&logoColor=white&link=https://bit.ly/haikal-portfolio)](https://bit.ly/haikal-portfolio)
 
 ## ⚡ Languages and Tools
 
@@ -24,6 +25,9 @@ I am Haikal Lazuardi Fadil, but most people simply call me Haikal. I recently gr
 
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+
+![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=flat-square&logo=kotlin&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-346ac1?style=flat-square&logo=android%20studio&logoColor=white)
 
 <!-- ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) -->
 
